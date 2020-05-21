@@ -4,9 +4,6 @@
 
 this is a copy of acme-web-design-projects 
 
-## Wireframe
-
-![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
