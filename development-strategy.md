@@ -12,7 +12,7 @@ __A User can see my initial repository and live demo__
 ### Branch
 
 
-## 1. User Story: title
+## 1. User Story: header
 
 __As a site visitor, I want to know what the web page is called__
 
